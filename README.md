@@ -1,4 +1,7 @@
 # SportlerToCSVAndPlot
+
+This is a personal project with no explicit support for anybody else.
+
 These Scripts allow the processing of logs from the Android App "Sportler". A Log is converted to 2 csv-files, one with the additional (calculated/deduced) values/columns: SpeedDiff and Acceleration. The resulting CSV-file can be visualized with plotly.
 
 --------
@@ -38,4 +41,3 @@ Plot Smoothing: Choose how aggressive the smoothing in the plot should be.
 
 Generate Plot/Show-Button: Generate the plot. For this to work correctly, the <field2>+'wAccel.csv' file has to exist.
   
-This is a personal project with no explicit support for anybody else.
