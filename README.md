@@ -2,7 +2,9 @@
 
 This is a personal project with no explicit support for anybody else.
 
-These Scripts allow the processing of logs from the Android App "Sportler" CAPTURED WITH AN HTC10. A Log is converted to 2 csv-files, one with the additional (calculated/deduced) values/columns: SpeedDiff and Acceleration. The resulting CSV-file can be visualized with plotly.
+These Scripts allow the processing of logs from the Android App "Sportler" CAPTURED WITH AN HTC10 - USING THE "SPT" FILE FORMAT ONLY. The App Sportler switched to the GPX format sometime after 2018.
+
+A Log is converted to 2 csv-files, one with the additional (calculated/deduced) values/columns: SpeedDiff and Acceleration. The resulting CSV-file can be visualized with plotly.
 
 --------
 
